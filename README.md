@@ -1,2 +1,2 @@
 # AirDrop-Projects
-This Repo Include Different types of AirDrop Smart Contract
+This repository contains Solidity smart contracts for various airdrop implementations. Airdrops are a popular marketing strategy for blockchain projects to distribute tokens to users, and these contracts can help automate the process in a secure and trustless manner. The contracts are written in Solidity, the programming language used for Ethereum smart contracts, and can be deployed on Ethereum or compatible blockchains. The repository includes contracts for different airdrop scenarios,

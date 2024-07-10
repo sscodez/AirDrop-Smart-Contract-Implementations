@@ -5,7 +5,7 @@ interface IERC20 {
     function balanceOf(address account) external view returns (uint256);
 }
 
-contract whitelistAirdrop {
+contract whitelistairdrop {
     address public tokenAddress;
     uint256 public tokenAmount;
 
